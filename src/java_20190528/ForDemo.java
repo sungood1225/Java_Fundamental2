@@ -21,8 +21,7 @@ public class ForDemo {
 			}
 		}
 		
-		
-		
+
 		
 		//소수 구하기
 		int primeCount =0;
